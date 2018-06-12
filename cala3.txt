@@ -1,0 +1,1 @@
+sqlplus sa/sa@prdcrm1
